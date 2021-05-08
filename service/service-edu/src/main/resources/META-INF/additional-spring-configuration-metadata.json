@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "server.port.mybatis-plus",
+      "type": "java.lang.String",
+      "description": "Description for server.port.mybatis-plus."
+  }
+] }
